@@ -3,8 +3,7 @@
 **Kelompok 6**
 
 **Mata Kuliah Rekayasa Perangkat Lunak**
-
-**Universitas Malikussalej**
-
+**Teknik Informatika**
+**Universitas Malikussaleh**
 **2023**
 
